@@ -156,7 +156,7 @@
   prerequisites: |
     Главная страница сайта открыта в режиме разработчика
   test-data: |
-    iPhone 11 
+    iPhone XR 
   steps:
     - Нажать на Toggle device toolbar
     - В выпадающем меню Dimensions выбрать требуемое устройство
